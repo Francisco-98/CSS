@@ -1,0 +1,397 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+body{
+    background-color: rgba(255, 255, 255, 0.911);
+}
+
+section .container{
+    background-color: #fff;
+}
+
+
+/*FIGHT VIRUS, FIRST SECTION*/
+.fight .container .bd-placeholder-img{
+    width: 100%;
+    height: 100%;
+}
+
+.fight .container .info h1{
+    padding-top: 80px;
+    color: rgba(0, 78, 245, 0.849);
+    font-size: 80px;
+    opacity: 90%;
+}
+
+.fight .container .info p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.fight .container .info .table{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.fight .container .info .table .iconuno{
+    font-size: 1.5rem; 
+    color: gold;
+}
+
+/* DIV SCHEDULE*/
+
+.fight .container .schedule{
+    padding-top: 150px;
+    color: cornflowerblue;
+    height: 50px;
+}
+
+.fight .container .schedule .icon{
+    background-color: #fff;
+    opacity: 85%;
+}
+
+.fight .container .schedule .icon:hover{
+    opacity: 100%;
+    
+}
+
+.fight .container .schedule .selection{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.fight .container .schedule .selection .iconbanner{
+    font-size: 1.5rem; 
+    color: cornflowerblue;
+}
+
+.fight .container .schedule .selection .btn{
+    position: relative;
+    height: 50px;
+    width: 90px;
+    margin: 10px;
+}
+    
+
+/*PROTECTION SECOND SECTION*/
+
+.protection .container .info2 h1{
+    padding-top: 80px;
+    color: cornflowerblue;
+    font-size: 50px;
+}
+
+.protection .container .info2 p{
+    padding-bottom: 50px;
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 25px;
+}
+
+/* TARGET*/
+.protection .container .target{
+    border-top: .5px solid rgb(236, 234, 234);
+    border-right: .5px solid rgb(236, 234, 234);
+    border-bottom: .5px solid rgb(236, 234, 234);
+    border-left: .5px solid rgb(236, 234, 234);
+    height: 350px;
+    width: 260px;
+    margin: 12px;
+ }
+
+.protection .container .target .icontarget{
+    padding-left: 40px;
+    margin-top: 30px;
+    font-size: 3rem; 
+    color: cornflowerblue;
+ }
+
+.protection .container .target:hover{
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+ }
+
+.protection .container .target h3{
+    padding-top: 15px;
+    margin: 15px;
+    color: cornflowerblue;
+}
+
+.protection .container .target p{
+    margin-left: 15px;
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+}
+
+
+ /*START THE THIRD SECTION PREPARATIONS BEFORE VACCINE*/
+.preparation .container .bd-placeholder-img{
+    width: 100%;
+    height: 100%;
+
+}
+ .preparation .container .info3 h1{
+    padding-top: 60px;
+    color: cornflowerblue;
+    font-size: 50px;
+}
+
+.preparation .container .info3 p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 25px;
+}
+
+/*LIST*/
+.preparation .container .slide li{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    margin: 3%;
+    font-size: 20px;
+    opacity: 90%;
+    border-top: .5px solid rgb(236, 234, 234);
+    border-right: .5px solid rgb(236, 234, 234);
+    border-bottom: .5px solid rgb(236, 234, 234);
+    border-left: .5px solid rgb(236, 234, 234);
+}
+
+.preparation .container .slide i{
+    font-size: 1.5rem; 
+    color: cornflowerblue;
+}
+
+.preparation .container .slide li:hover{
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+}
+
+/* BUTTONS*/
+.preparation .container .slide .more{
+    text-align: right;
+}
+
+/*PUSH EVENT*/
+.preparation .container .slide .cards{
+    margin-left: 22px;
+    margin-right: 22px;
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+}
+/* /END THE THIRD SECTION PREPARATIONS BEFORE VACCINE*/
+
+/* EMERGENCY FOURTH SECTION */
+.emergency .container .bd-placeholder-img{
+    width: 100%;
+    height: 100%;
+}
+
+.emergency .container .info4 h1{
+    padding-top: 60px;
+    color: cornflowerblue;
+    font-size: 50px;
+}
+
+.emergency .container .info4 p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.emergency .container .info4 .target2{
+    width: 50px;
+    height: 50px;
+}
+
+.emergency .container .target h3{
+    padding-top: 60px;
+    margin: 15px;
+    color: cornflowerblue;
+}
+
+.emergency .container .target p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    text-align: justify;
+}
+
+.emergency .container .contact{
+    padding-top: 60px;
+}
+
+.emergency .container .contact .cal{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin: 4%;
+    border-top: .5px solid rgb(248, 245, 245);
+    border-right: .5px solid rgb(228, 228, 228);
+    border-bottom: .5px solid rgb(228, 228, 228);
+    border-left: .5px solid rgb(228, 228, 228);
+
+}
+
+.emergency .container .contact .cal .iconemergency{
+    margin-left: 20px;
+    font-size: 2.5rem; 
+    color: cornflowerblue;
+}
+
+.emergency .container .contact .cal .butemergency{
+    width: 100%;
+    height: 100%;
+}
+
+.emergency .container .contact .cal .butemergency:hover{
+    background-color: cornflowerblue;
+}
+
+.emergency .container .contact .cal .text h1{
+    color: rgb(34, 32, 32);
+}
+
+.emergency .container .contact .cal .text p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    font-size: 10px;
+    width: 100%;
+}
+
+.emergency .container .contact .cal:hover{
+    box-shadow: 0px 0px 5px 1px rgb(102, 120, 199);
+}
+/* /END THE FOURTH EMERGENCY SECTION */
+
+/* START THE FOOTER*/
+footer{
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 0.911);
+}
+footer p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+}
+
+footer h3{
+    color: cornflowerblue;
+}
+
+footer h4{
+    color: rgb(27, 61, 216);
+}
+/* /END THE FOOTER*/
+
+
+
+/* START THE NEW VARIANTS PAGE*/
+/* START THE LINKS */
+
+.marketing h1{
+    padding-top: 30px;
+    color: rgba(0, 78, 245, 0.849);
+    font-size: 70px;
+    opacity: 90%;
+    text-align: center;
+}
+
+.marketing h2{
+    color: cornflowerblue;
+    margin-left: 60px;
+}
+
+.marketing p{
+    margin-left: 60px;
+}
+
+.marketing .links .btn:hover{
+    background-color: cornflowerblue;
+}
+
+.bd-placeholder-img{
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    margin-left: 60px;
+    border-radius: 30px;
+  }
+
+.bd-placeholder-img:hover{
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+}
+
+  
+@media (min-width: 768px){
+    .bd-placeholder-img-lg{
+      font-size: 3.5rem;
+    }
+}
+  
+  .container .bd-placeholder-img{
+    width: 180px;
+    height: 180px;
+}
+
+/* START THE FEATURETTES*/
+.container .featurette h1{
+    padding-top: 0px;
+}
+
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  
+.featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+  
+.container .featurette .bd-placeholder-img{
+    width: 550px;
+    height: 450px;
+}
+ .container .featurette li{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    font-size: 20px;
+}
+
+.container .featurette h1{
+    color: cornflowerblue;
+    font-size: 40px;  
+ }
+
+.container .featurette p{
+    color: rgb(34, 32, 32);
+    opacity: 80%;
+    font-size: 15px;
+}
+
+.container .featurette i{
+    color: rgba(0, 78, 245, 0.849);
+}
+
+.container .featurette li:hover{
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+}
+
+/*PUSH EVENT*/
+.container .featurette .slide .cards{
+    margin-left: 22px;
+    margin-right: 22px;
+    box-shadow: 0px 0px 5px 1px cornflowerblue;
+}
